@@ -33,7 +33,7 @@ Property | Data
 <p align="left">
 <a href="https://twitter.com/leomiglio02" target="blank"><img align="center" src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/twitter.svg" alt="leomiglio02" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/leomiglio02" target="blank"><img align="center" src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/linkedin.svg" alt="leomiglio02" height="30" width="30" /></a>
-<a href="mailto:leo.miglio@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/mail@.svg" alt="mail" height="30" width="30" /></a>
+<a href="mailto:leo.miglio@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/mail.svg" alt="mail" height="30" width="30" /></a>
 <!-- <a href="http://miglio.tech" alt="Main Site"> <img src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/www.svg" /> </a> -->
 </p>
 
