@@ -9,7 +9,7 @@
 
 ![](./src/header_.png)
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=600&lines=+Welcome+to+my+Profile!;+I+am+Leonardo+Migliorelli;+Unicam+IT+student;Always+keep+learning+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=600&lines=+Welcome+to+my+Profile!;+I+am+Leonardo+Migliorelli;+Unicam+IT+student;Always+keep+learning+;+)](https://git.io/typing-svg)
 
 Property | Data
 --- | --- 
