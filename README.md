@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://github.com/leomiglio02/leomiglio02"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Glydric22/Glydric22"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FFD93F.svg"></a>
-    <!-- <a href="https://github.com/leomiglio02/leomiglio02/graphs/contributors"><img src="https://img.shields.io/github/contributors/leomiglio02/leomiglio02?color=blue"></a> -->
-    <a href="https://github.com/leomiglio02/leomiglio02/stargazers"><img src="https://img.shields.io/github/stars/leomiglio02/leomiglio02.svg?logo=github"></a>
-    <a href="https://github.com/leomiglio02/leomiglio02/network/members"><img src="https://img.shields.io/github/forks/leomiglio02/leomiglio02.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=leomiglio02.leomiglio02" alt="visitors"/>   
+    <!-- <a href="https://github.com/Glydric22/Glydric22/graphs/contributors"><img src="https://img.shields.io/github/contributors/Glydric22/Glydric22?color=blue"></a> -->
+    <a href="https://github.com/Glydric22/Glydric22/stargazers"><img src="https://img.shields.io/github/stars/Glydric22/Glydric22.svg?logo=github"></a>
+    <a href="https://github.com/Glydric22/Glydric22/network/members"><img src="https://img.shields.io/github/forks/Glydric22/Glydric22.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Glydric22.Glydric22" alt="visitors"/>   
 </p>
 
 ![](./src/header_.png)
@@ -20,21 +20,21 @@ Property | Data
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leomiglio02&theme=radical&layout=compact)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric22&theme=radical&layout=compact)
 
 <!-- . | .
---- | --- ![leomiglio02's github stats](https://github-readme-stats.vercel.app/api?username=leomiglio02&show_icons=true&theme=radical&include_all_commits=true) | 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=leomiglio02&hide_border=true&theme=redical) 
+--- | --- ![Glydric22's github stats](https://github-readme-stats.vercel.app/api?username=Glydric22&show_icons=true&theme=radical&include_all_commits=true) | 
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Glydric22&hide_border=true&theme=redical) 
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomiglio02"></img> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glydric22"></img> -->
 
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/leomiglio02" target="blank"><img align="center" src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/twitter.svg" alt="leomiglio02" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/leomiglio02" target="blank"><img align="center" src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/linkedin.svg" alt="leomiglio02" height="40" width="40" /></a>
-<a href="mailto:leo.miglio@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/newmail.svg" alt="mail" height="40" width="40" /></a>
-<!-- <a href="http://miglio.tech" alt="Main Site"> <img src="https://raw.githubusercontent.com/leomiglio02/leomiglio02/master/assets/www.svg" /> </a> -->
+<a href="https://twitter.com/Glydric22" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric22/Glydric22/master/assets/twitter.svg" alt="Glydric22" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/Glydric22" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric22/Glydric22/master/assets/linkedin.svg" alt="Glydric22" height="40" width="40" /></a>
+<a href="mailto:leo.miglio@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric22/Glydric22/master/assets/newmail.svg" alt="mail" height="40" width="40" /></a>
+<!-- <a href="http://miglio.tech" alt="Main Site"> <img src="https://raw.githubusercontent.com/Glydric22/Glydric22/master/assets/www.svg" /> </a> -->
 </p>
 
 
