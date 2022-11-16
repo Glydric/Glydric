@@ -9,10 +9,10 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Glydric22.Glydric22" alt="visitors"/>   
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=600&lines=+Welcome+to+my+Profile!;+I+am+Leonardo+Migliorelli;+Unicam+IT+student;Always+keep+learning+;+)](https://git.io/typing-svg)
 <!--   my-header-img -->
 <!-- ![](./src/header_.png) -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=600&lines=+Welcome+to+my+Profile!;+I+am+Leonardo+Migliorelli;+Unicam+IT+student;Always+keep+learning+;+)](https://git.io/typing-svg)
 
 Property | Data
 --- | --- 
