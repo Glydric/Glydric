@@ -1,22 +1,8 @@
 
-<style>
-  div {
-      vertical-align: middle;
-      text-align: center;
-  }
-
-  .flex-container{
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .flex-item {
-    flex: 50%;
-  }
-</style>
 
 ![](assets/Bottom_up.svg)
 
+<div align="center" style="text-align: center">
 
 ![](https://img.shields.io/badge/status-updating-brightgreen.svg)
 ![](https://img.shields.io/badge/Python-3.10-FFD93F.svg)
@@ -26,9 +12,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=600&lines=+I+am+Leonardo+Migliorelli;+Unicam+BSc+IT+student;Always+keep+learning+;+)](https://git.io/typing-svg)
 
-<div class="flex-container">
+<div style="
+    display: flex;
+    flex-wrap: wrap;">
 
-  <div class="flex-item">
+  <div style="flex: 50%">
 
   Property | Data
   --- | --- 
@@ -40,7 +28,7 @@
 
   </div>
 
-  <div class="flex-item">
+  <div class="flex: 50%">
   <!--   GitHub stats graph -->
 
   ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric&theme=radical&layout=compact)
