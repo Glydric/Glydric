@@ -1,3 +1,5 @@
+
+
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
@@ -12,58 +14,47 @@
 <!--   my-header-img -->
 <!-- ![](./src/header_.png) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=600&lines=+Welcome+to+my+Profile!;+I+am+Leonardo+Migliorelli;+Unicam+IT+student;Always+keep+learning+;+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=600&lines=+I+am+Leonardo+Migliorelli;+Unicam+BSc+IT+student;Always+keep+learning+;+)](https://git.io/typing-svg)
+
 
 Property | Data
 --- | --- 
-**Preferred Language / IDE**  |![Python Badge](https://img.shields.io/badge/-Python-FFD900?style=flat&logo=Python&logoColor=white) ![VsCode Badge](https://img.shields.io/badge/-vscode-2088FF?style=flat&logo=VisualStudioCode&logoColor=white)
-**Known Languages and Technologies**  | ![Java Badge](https://img.shields.io/badge/-Java-2088FF?style=flat&logo=Java&logoColor=white) ![Php Badge](https://img.shields.io/badge/-PHP-2088FF?style=flat&logo=PHP&logoColor=white) ![DB Badge](https://img.shields.io/badge/MySql-0000ff.svg?logo=MySql&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)
-**Domain Knownledge**  | ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) ![IT Security](https://img.shields.io/badge/-IT%20Security-FF6600?style=flat&logoColor=white)
+**Preferred IDEs**  |![VsCode Badge](https://img.shields.io/badge/-VS%20Code-2088FF?style=flat&logo=VisualStudioCode&logoColor=white) ![Intellij Badge](https://img.shields.io/badge/-IntelliJ-2088FF?style=flat&logo=IntellijIdea&logoColor=white)
+**Languages**  | ![Java Badge](https://img.shields.io/badge/-Java-2088FF?style=flat&logo=java&logoColor=white) ![Php Badge](https://img.shields.io/badge/-PHP-2088FF?style=flat&logo=PHP&logoColor=white) ![DB Badge](https://img.shields.io/badge/MySql-2088FF.svg?logo=MySql&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-2088FF?style=flat&logo=Python&logoColor=white) 
+**VCS** | ![Git](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white) 
+**Knownledge**  | ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) <!-- ![IT Security](https://img.shields.io/badge/-IT%20Security-FF6600?style=flat&logoColor=white) -->
 **OS**  | ![MacOS Badge](https://img.shields.io/badge/MacOS-000000.svg?logo=apple) ![Linux Badge](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white)
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric&theme=radical&layout=compact)
 
-<!-- ![Glydric's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&include_all_commits=true&username=Glydric) -->
+![Glydric's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Glydric)
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glydric"></img>
-
-<!--   profile-green-animate -->
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
-
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/Glydric" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/twitter.svg" alt="Glydric" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/Glydric" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/linkedin.svg" alt="Glydric" height="40" width="40" /></a>
-<a href="mailto:leo.miglio@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/newmail.svg" alt="mail" height="40" width="40" /></a>
-</p>
-
-<!-- <div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a> 
- </p> 
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
-
+<!-- 
+<div align="left"> 
 
 ### You are visitor Nº
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/Glydric/count.svg">  
+</div>
+<div align="right"> 
 
-Counting of visitors to this page in this section started from Nov 15, 2022
+![](https://profile-counter.glitch.me/Glydric/count.svg)
 
+</div>
 
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork and use it*
----
+Visitors Counting started on **2 feb 2022**
+ -->
+### 📫 How to Reach me:
 
-[MIT](LICENSE)
-<!-- If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda -->
-  
+<a href="https://twitter.com/Glydric" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/twitter.svg" alt="twitter" height="40" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/Glydric" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/linkedin.svg" alt="linkedin" height="40" width="40" />
+</a>
+<a href="mailto:leo@miglio.dev" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/newmail.svg" alt="mail" height="40" width="40" />
+</a>
+
 ![](assets/Bottom_down.svg)
