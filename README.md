@@ -31,6 +31,8 @@
 
   ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric&theme=radical&layout=compact)
 
+  </div><div style="flex: 50%; padding-left: 1 px">
+
   ![Glydric's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Glydric)
 
   </div>
