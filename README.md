@@ -16,6 +16,10 @@
 
   <div style="flex: 50%">
 
+  ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric&theme=radical&layout=compact)
+
+  </div><div style="flex: 50%">
+
   Property | Data
   --- | --- 
   **Preferred IDEs**  |![VsCode Badge](https://img.shields.io/badge/-VS%20Code-2088FF?style=flat&logo=VisualStudioCode&logoColor=white) ![Intellij Badge](https://img.shields.io/badge/-IntelliJ-2088FF?style=flat&logo=IntellijIdea&logoColor=white)
@@ -27,13 +31,8 @@
   </div>
 
   <div style="flex: 50%">
-  <!--   GitHub stats graph -->
 
-  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric&theme=radical&layout=compact)
-
-  </div><div style="flex: 50%; padding-left: 1 px">
-
-  ![Glydric's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Glydric)
+  ![Commit stats](https://github-readme-streak-stats.herokuapp.com/?user=Glydric)
 
   </div>
 
