@@ -48,7 +48,7 @@ Visitors Counting started on **2 feb 2022**
 
 ### 📫 How to Reach me:
 
-<a href="https://twitter.com/Glydric" target="blank">
+<a href="https://twitter.com/leomiglio02" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/twitter.svg" alt="twitter" height="40" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/Glydric" target="blank">
