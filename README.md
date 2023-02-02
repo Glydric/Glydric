@@ -2,11 +2,11 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/Glydric22/Glydric22"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Glydric/Glydric"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FFD93F.svg"></a>
-    <a href="https://github.com/Glydric22/Glydric22/stargazers"><img src="https://img.shields.io/github/stars/Glydric22/Glydric22.svg?logo=github"></a>
-    <a href="https://github.com/Glydric22/Glydric22/network/members"><img src="https://img.shields.io/github/forks/Glydric22/Glydric22.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Glydric22.Glydric22" alt="visitors"/>   
+    <a href="https://github.com/Glydric/Glydric/stargazers"><img src="https://img.shields.io/github/stars/Glydric/Glydric.svg?logo=github"></a>
+    <a href="https://github.com/Glydric/Glydric/network/members"><img src="https://img.shields.io/github/forks/Glydric/Glydric.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Glydric.Glydric" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
@@ -25,20 +25,20 @@ Property | Data
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric22&theme=radical&layout=compact)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric&theme=radical&layout=compact)
 
-<!-- ![Glydric22's github stats](https://github-readme-stats.vercel.app/api?username=Glydric22&show_icons=true&theme=radical&include_all_commits=true) -->
+<!-- ![Glydric's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&include_all_commits=true&username=Glydric) -->
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glydric22"></img>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glydric"></img>
 
 <!--   profile-green-animate -->
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/Glydric22" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric22/Glydric22/master/assets/twitter.svg" alt="Glydric22" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/Glydric22" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric22/Glydric22/master/assets/linkedin.svg" alt="Glydric22" height="40" width="40" /></a>
-<a href="mailto:leo.miglio@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric22/Glydric22/master/assets/newmail.svg" alt="mail" height="40" width="40" /></a>
+<a href="https://twitter.com/Glydric" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/twitter.svg" alt="Glydric" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/Glydric" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/linkedin.svg" alt="Glydric" height="40" width="40" /></a>
+<a href="mailto:leo.miglio@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Glydric/Glydric/master/assets/newmail.svg" alt="mail" height="40" width="40" /></a>
 </p>
 
 <!-- <div align="center">
@@ -54,7 +54,7 @@ Property | Data
 
 ### You are visitor Nº
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/Glydric22/count.svg">  
+<img src="https://profile-counter.glitch.me/Glydric/count.svg">  
 
 Counting of visitors to this page in this section started from Nov 15, 2022
 
