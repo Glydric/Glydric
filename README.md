@@ -6,8 +6,8 @@
 
 ![](https://img.shields.io/badge/status-updating-brightgreen.svg)
 ![](https://img.shields.io/badge/Python-3.10-FFD93F.svg)
-![](https://img.shields.io/github/forks/miglio-dev/miglio-dev.svg?color=blue&logo=github)
-![](https://visitor-badge.laobi.icu/badge?page_id=miglio-dev.miglio-dev)
+![](https://img.shields.io/github/forks/Glydric/Glydric.svg?color=blue&logo=github)
+![](https://visitor-badge.laobi.icu/badge?page_id=Glydric.Glydric)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=600&lines=+I+am+Leonardo+Migliorelli;+Unicam+BSc+IT+student;Always+keep+learning+;+)](https://git.io/typing-svg)
@@ -16,7 +16,7 @@
 
   <div style="flex: 50%">
 
-  ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=miglio-dev&theme=radical&layout=compact)
+  ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glydric&theme=radical&layout=compact)
 
   </div><div style="flex: 50%">
 
@@ -32,7 +32,7 @@
 
   <div style="flex: 50%">
 
-  ![Commit stats](https://github-readme-streak-stats.herokuapp.com/?user=miglio-dev)
+  ![Commit stats](https://github-readme-streak-stats.herokuapp.com/?user=Glydric)
 
   </div>
 
@@ -41,10 +41,10 @@
 
 ### 📫 Get in contact
 
-<a href="https://twitter.com/miglio-dev" target="blank">
+<a href="https://twitter.com/Glydric" target="blank">
   <img align="center" src="assets/newmail.svg" alt="mail" height="40" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/miglio-dev" target="blank">
+<a href="https://www.linkedin.com/in/Glydric" target="blank">
   <img align="center" src="assets/linkedin.svg" alt="linkedin" height="40" width="40" />
 </a>
 <a href="mailto:leo@miglio.dev" target="blank">
