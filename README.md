@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/Glydric" target="blank">
   <img align="center" src="assets/linkedin.svg" alt="linkedin" height="40" width="40" />
 </a>
-<a href="mailto:leo@miglio.dev" target="blank">
+<a href="https://twitter.com/glydric_" target="blank">
   <img align="center" src="assets/twitter.svg" alt="twitter" height="40" width="40" />
 </a>
 
